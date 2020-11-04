@@ -1,4 +1,5 @@
-
+//check changes
+//how to check gui git 
 #include "StdAfx.h"
 #include <iostream>
 #include "List.h"

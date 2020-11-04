@@ -1,5 +1,6 @@
 // ListApplication.cpp : Defines the entry point for the console application.
-//
+//git hub changes
+//on how to notice the changes made
 
 #include "stdafx.h"
 #include "list.h"
